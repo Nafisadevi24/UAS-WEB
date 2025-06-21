@@ -22,7 +22,7 @@ Sistem Blog Dinamis ini dikembangkan menggunakan PHP + MySQL dengan antarmuka mo
 - MySQL (phpMyAdmin)
 - Bootstrap 5 (CDN)
 - HTML5, CSS3
-- JavaScript dasar (opsional)
+- JavaScript dasar 
 
 
 
