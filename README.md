@@ -13,6 +13,8 @@ Sistem Blog Dinamis ini dikembangkan menggunakan PHP + MySQL dengan antarmuka mo
 - 📸 Upload Gambar Artikel (disimpan di folder `/gambar/`)
 - 📖 Halaman Detail Artikel & Kategori
 - 🌐 Halaman Publik & Admin terpisah
+- dashboard.php adalah halaman untuk admin/pengelola mengelola artikel (tambah, edit, hapus) setelah login.
+- index.php adalah halaman utama untuk pengunjung melihat artikel.
 
 ---
 
